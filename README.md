@@ -1,31 +1,11 @@
-# Merhaba, Ben Samet Coşkun 👋
+### Merhaba, ben Samet
 
-🎓 **Bilgisayar Mühendisliği 2. Sınıf Öğrencisi**  
-💻 Backend geliştirme, REST API mimarileri ve veritabanı sistemleri üzerine odaklanıyorum.  
-🌱 Şu anda **Python (FastAPI)**, **Java (OOP & Spring Boot)** ve **SQL** üzerine projeler geliştiriyorum.
+Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. 
 
----
+Okuldaki ilk yılımda **Python** ve **C++** ile algoritma ve programlama temellerini öğrendim. Bu dönem **Java** ve Nesne Yönelimli Programlama (OOP) üzerine çalışıyorum. Derslerin yanında öğrendiğim dilleri sadece konsol uygulamalarında bırakmamak için veritabanı (SQL) ve arka uç (Backend) geliştirme konularını öğrenip küçük projeler üretmeye başladım.
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
+**Şu an kullandığım ve öğrendiğim araçlar:**
+- **Diller:** Python, Java, C++, SQL
+- **Çalıştığım Konular:** OOP (Nesne Yönelimli Programlama), Veri Yapıları, REST API (FastAPI & Spring Boot), Git
 
-- **Programlama Dilleri:** Python, Java, C++, SQL
-- **Backend & Framework:** FastAPI, Spring Boot *(öğreniliyor)*
-- **Veritabanı:** SQLite, PostgreSQL
-- **Araçlar:** Git, GitHub, Postman, VS Code, IntelliJ IDEA
-
----
-
-### 🚀 Öne Çıkan Projelerim
-
-| Proje | Durum | Teknolojiler | Açıklama |
-| :--- | :--- | :--- | :--- |
-| 📈 **[Finans & Döviz Takip API](https://github.com/samettcoskun/finans-takip-api)** | 🚧 *Aktif Geliştiriliyor* | `Python` `FastAPI` `SQLite` | Anlık döviz kurlarını çeken ve kişisel bütçe/harcama analizi sunan RESTful API servisi. |
-| 📋 **Staj & Görev Yönetim Sistemi** | ⏳ *Planlandı* | `Java` `Spring Boot` `PostgreSQL` | Katmanlı mimari (Controller-Service-Repository) ile geliştirilmiş başvuru takip backend projesi. |
-| 🧠 **Algoritma ve OOP Çalışmalarım** | ⏳ *Planlandı* | `C++` `Java` `Python` | Nesne yönelimli programlama (OOP), veri yapıları ve algoritma çözümlerim. |
-
----
-
-### 📫 Bana Ulaşın
-
-- **GitHub:** [github.com/samettcoskun](https://github.com/samettcoskun)
-- **E-posta:** [sametcoskun2405@gmail.com](mailto:sametcoskun2405@gmail.com)
+**İletişim:** [sametcoskun2405@gmail.com](mailto:sametcoskun2405@gmail.com)
