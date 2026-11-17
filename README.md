@@ -17,11 +17,11 @@
 
 ### 🚀 Öne Çıkan Projelerim
 
-| Proje | Teknolojiler | Açıklama |
-| :--- | :--- | :--- |
-| 📈 **[Finans & Döviz Takip API](https://github.com/samettcoskun/finans-takip-api)** | `Python` `FastAPI` `SQLite` | Anlık döviz kurlarını çeken ve kişisel bütçe/harcama analizi sunan RESTful API servisi. |
-| 📋 **[Staj & Görev Yönetim Sistemi](https://github.com/samettcoskun/staj-takip-backend)** | `Java` `Spring Boot` `PostgreSQL` | Katmanlı mimari (Controller-Service-Repository) ile geliştirilmiş başvuru takip backend projesi. |
-| 🧠 **[Algoritma ve OOP Çalışmalarım](https://github.com/samettcoskun/cs-fundamentals)** | `C++` `Java` `Python` | Nesne yönelimli programlama (OOP), veri yapıları ve algoritma çözümlerim. |
+| Proje | Durum | Teknolojiler | Açıklama |
+| :--- | :--- | :--- | :--- |
+| 📈 **[Finans & Döviz Takip API](https://github.com/samettcoskun/finans-takip-api)** | 🚧 *Aktif Geliştiriliyor* | `Python` `FastAPI` `SQLite` | Anlık döviz kurlarını çeken ve kişisel bütçe/harcama analizi sunan RESTful API servisi. |
+| 📋 **Staj & Görev Yönetim Sistemi** | ⏳ *Planlandı* | `Java` `Spring Boot` `PostgreSQL` | Katmanlı mimari (Controller-Service-Repository) ile geliştirilmiş başvuru takip backend projesi. |
+| 🧠 **Algoritma ve OOP Çalışmalarım** | ⏳ *Planlandı* | `C++` `Java` `Python` | Nesne yönelimli programlama (OOP), veri yapıları ve algoritma çözümlerim. |
 
 ---
 
